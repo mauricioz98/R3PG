@@ -3,7 +3,7 @@
 # Author: Daniel M. Griffith
 # Date:
 # Description:
-#   converting nice Python code into ugly R code.
+#   converting nice Python code into R code.
 #   original code from:
 #     File: 3pg.py
 #     Author: joeyzhou1984@gmail.com
